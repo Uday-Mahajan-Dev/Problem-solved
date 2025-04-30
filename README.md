@@ -6,3 +6,7 @@ Today I am uploading a basic array problem where we initialize an array first an
 I will upload further problems soon that will help solve hard array problems with ease.
 
 I will try to add comments in code to make everything understandable.
+
+Today I added a new java code which takes input in the array and returns the answer in descending order. 
+
+This helps to understand more about for loops and Arrays.sort() function.
