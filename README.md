@@ -10,3 +10,7 @@ I will try to add comments in code to make everything understandable.
 Today I added a new java code which takes input in the array and returns the answer in descending order. 
 
 This helps to understand more about for loops and Arrays.sort() function.
+
+PrimeDescending.java code helps to print prime number between 100-1000 in descending order.
+
+Here we run the for loop from 999 to 99 with decrementing i and also a nested j for loop whle the if statement check for if the value is prime or not and prints the result.
