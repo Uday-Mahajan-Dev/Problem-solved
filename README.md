@@ -16,3 +16,5 @@ PrimeDescending.java code helps to print prime number between 100-1000 in descen
 Here we run the for loop from 999 to 99 with decrementing i and also a nested j for loop whle the if statement check for if the value is prime or not and prints the result.
 
 The Factorial.java is a program that helps to count and print factorial of any number given be user.
+
+The input is taken from user and passed into a function that returns factorial of that number and the value is stored in a variable (Factorial) to print in the output.
