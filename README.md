@@ -14,3 +14,5 @@ This helps to understand more about for loops and Arrays.sort() function.
 PrimeDescending.java code helps to print prime number between 100-1000 in descending order.
 
 Here we run the for loop from 999 to 99 with decrementing i and also a nested j for loop whle the if statement check for if the value is prime or not and prints the result.
+
+The Factorial.java is a program that helps to count and print factorial of any number given be user.
