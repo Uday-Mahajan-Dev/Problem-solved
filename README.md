@@ -18,3 +18,5 @@ Here we run the for loop from 999 to 99 with decrementing i and also a nested j 
 The Factorial.java is a program that helps to count and print factorial of any number given be user.
 
 The input is taken from user and passed into a function that returns factorial of that number and the value is stored in a variable (Factorial) to print in the output.
+
+Today I added the famous Armstrong Number solution.
